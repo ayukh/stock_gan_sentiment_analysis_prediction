@@ -1,4 +1,4 @@
-# master_thesis_kpi
+# Stock prediction using GAN with social media sentiment analysis
 Topic: Modeling the investment portfolio of E-commerce companies
 
 * Stock prediction using Generative Adversarial Networks
