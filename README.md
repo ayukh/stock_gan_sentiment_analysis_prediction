@@ -1,5 +1,5 @@
 # Stock prediction using GAN with social media sentiment analysis
-Topic: Modeling the investment portfolio of E-commerce companies
+Code for "Forecasting the stock prices using generative adversarial networks and sentiment analysis of social networks" (MDES vol.10 2022)
 
 * Stock prediction using Generative Adversarial Networks
 * Calculating technical indicators for stock price data and performing sentiment analysis on stock tweets
